@@ -8,13 +8,11 @@ The program will open the purchase page with your default browser if there are t
 Because of the rare oppotunities to access the purchase page, there is a few difficulties to debug XD.
 It worked well on Windows 10 and OSX.
 
-##HOW TO RUN
-1. Make sure the version of python on your computer.
-2. Run it on your command line tools.
- 
+##HOW TO RUN ON WINDOWS
 1. Windows用戶請安裝python 官網:https://www.python.org/
 2. 點兩下檔案應該就能運作了
 
+##HOW TO RUN ON MAC  
 1. Mac內建python2.7，請下載***sodagreen_ticket_tracker_python2.py***
 2. 打開終端機，輸入 cd Downloads
 3. 輸入 python sodagreen_ticket_tracker_python2.py 即可運作
