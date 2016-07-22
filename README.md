@@ -3,9 +3,10 @@
 ***sodagreen_ticket_tracker_python2.py*** for **python 2.7** users  
 
 ##NOTICE!!
-***sodagreen_ticket_tracker_python2.py*** worked well on **OSX** and was able to open the link of purchase page with default browser **Safari**.  
-However, ***sodagreen_ticket_tracker_python3.py*** stucked at openning the purchase page and I don't know why still. But you can identify which event has the ticket remaining by recognizing the event before stucking.  
+The program will link to every event one by one and run in a permanent loop.  
+The program will open the purchase page with your default browser if there are tickets remaining in that event.  
 Because of the rare oppotunities to access the purchase page, there is a few difficulties to debug XD.
+It worked well on Windows 10 and OSX.
 
 ##HOW TO RUN
 1. Make sure the version of python on your computer.
