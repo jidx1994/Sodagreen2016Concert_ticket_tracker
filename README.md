@@ -18,4 +18,4 @@ It worked well on Windows 10 and OSX.
 3. 輸入 python sodagreen_ticket_tracker_python2.py 即可運作
 
 #Welcome to improve my code! Thanks!
-##Truly rookie on Github, please give me some advices.
+##Truly beginner on Github, please give me some advices.
