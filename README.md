@@ -12,5 +12,12 @@ It worked well on Windows 10 and OSX.
 1. Make sure the version of python on your computer.
 2. Run it on your command line tools.
  
+1. Windows用戶請安裝python 官網:https://www.python.org/
+2. 點兩下檔案應該就能運作了
+
+1. Mac內建python2.7，請下載***sodagreen_ticket_tracker_python2.py***
+2. 打開終端機，輸入 cd Downloads
+3. 輸入 python sodagreen_ticket_tracker_python2.py 即可運作
+
 #Welcome to improve my code! Thanks!
 ##Truly rookie on Github, please give me some advices.
