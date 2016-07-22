@@ -18,5 +18,5 @@ It worked well on Windows 10 and OSX.
 2. 打開終端機，輸入 cd Downloads
 3. 輸入 python sodagreen_ticket_tracker_python2.py 即可運作
 
-#Welcome to improve my code! Thanks!
+##Welcome to improve my code! Thanks!
 ##Truly beginner on Github, please give me some advices.
