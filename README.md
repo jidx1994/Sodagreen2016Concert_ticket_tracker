@@ -7,7 +7,8 @@ The program will link to every event one by one and run in a permanent loop.
 The program will open the purchase page with your default browser if there are tickets remaining in that event.  
 Because of the rare oppotunities to access the purchase page, there is a few difficulties to debug.  
 It worked well on Windows 10 and OSX.  
-他會一場一場輪流跑，若是有剩餘票卷的話就會開啟瀏覽器進到購買畫面，不過因為很少進到購買畫面測試，所以可能會有一些bug吧。
+他會一場一場輪流跑，若是有剩餘票卷的話就會開啟瀏覽器進到購買畫面，不過因為很少進到購買畫面測試，所以可能會有一些bug吧。  
+基本上等拓元開始上班在開始跑就好了，7/22釋出大約都在下午。
 
 ##HOW TO RUN ON WINDOWS
 1. Windows用戶請安裝python 官網:https://www.python.org/
