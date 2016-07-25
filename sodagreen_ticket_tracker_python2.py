@@ -64,7 +64,7 @@ while 1:
     event='10/8春．日光'
   elif number==1431:
     event='10/9春．日光'
-  if html.find(u'此場次/區域已完售')>=0:
+  if html.find(u'完售')>=0:
     print(event+' 售完')    
   else:
     print(event+' 快買')
