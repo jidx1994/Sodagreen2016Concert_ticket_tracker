@@ -6,7 +6,7 @@ number=1404
 
 while 1:
   response = urllib.urlopen('https://tixcraft.com/ticket/area/16_soda/'+str(number))
-  html = response.read().decode('utf8')
+  html = response.read().decode('unicode_escape')
   #print(html)
   if number==1404:
     event='8/5同名'
