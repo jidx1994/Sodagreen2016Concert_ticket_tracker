@@ -65,9 +65,9 @@ while 1:
   elif number==1431:
     event='10/9春．日光'
   if html.find(u'完售')>=0:
-    print(event+' 售完')    
+    print(event+' 售完').decode('UTF-8')    
   else:
-    print(event+' 快買')
+    print(event+' 快買').decode('UTF-8') 
     webbrowser.open('https://tixcraft.com/ticket/area/16_soda/'+str(number))
   number+=1
   if number==1432:
