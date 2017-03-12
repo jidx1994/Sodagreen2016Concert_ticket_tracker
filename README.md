@@ -23,5 +23,5 @@ It worked well on Windows 10 and OSX.
 
 ##Truly beginner on Github, please give me some advices.
 
-##7/25final update.  
-7/25後不再因應官網更動作其他更新
+##7/25 final update.  
+7/25後不再因應官網更動，進行其他更新
